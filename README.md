@@ -3,3 +3,4 @@
 使用技術:
 HTML、CSS、JavaScript
 
+自學用小型作品。
